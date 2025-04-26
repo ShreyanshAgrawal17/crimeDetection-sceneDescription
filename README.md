@@ -73,7 +73,12 @@ os.environ["HF_TOKEN"] = "YOUR_HUGGINGFACE_TOKEN"`
 
 ### 2️⃣ For Training (Local or Colab)
 
--   Run the scripts step-by-step:
+✅ Step 1: Install project dependencies:
+
+```
+pip install -r requirements.txt
+```
+✅ Step 2: Then run the scripts step-by-step:
 
 ```
 
